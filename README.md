@@ -2,6 +2,9 @@
 
 <h1>Case Study: Geneva Wheel Assembly Design Project</h1>
 
+<h2>Design Showcase:</h2>
+<img width="500" alt="Coding" src="https://github.com/Mathew2624/Case-Study-Geneva-Wheel-Assembly-Design-Project/assets/150618966/b3814b50-3616-4222-a995-6ef4a1e14338">
+
   <h2>Objective:</h2>
     <p>The objective of this system modeling and manufacturing project was to apply and demonstrate knowledge of common
         mechanical elements, components, and principles. Specifically, the goal was to design a Geneva Wheel assembly using
